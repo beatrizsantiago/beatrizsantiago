@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, everyone! I'm Beatriz Santiago 😄
 
-<!--
-**beatrizsantiago/beatrizsantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A few years ago I got to know the IT world :sparkles: and have fallen in love with it ever since.
+Currently, I dare to develop software on the client side :lipstick: and try to learn a little more about the server side. :construction::monocle_face:
 
-Here are some ideas to get you started:
+### My favorite <strong>stacks</strong> for:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Applications
+
+[ReactJS](https://reactjs.org/),
+[React Native](https://reactnative.dev/),
+[Typescript](https://www.typescriptlang.org/),
+[GraphQl](https://graphql.org/)
+
+- DevOps
+
+[Git](https://git-scm.com/),
+[GitHub](https://github.com/),
+[VSCode](https://code.visualstudio.com/)
